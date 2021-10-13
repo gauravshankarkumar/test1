@@ -1,0 +1,52 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+li {
+  font-family: sans-serif;
+  color: #444444;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #09ceec;
+}
+h1 {
+  font-size: 30px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 35px;
+}
+h4 {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+li {
+  font-size: 20px;
+}
+/* footer p { 
+  font-size: 10px;
+}*/
+article ul li {
+  color: red;
+}
+#copyright {
+  font-size: 16px;
+}
+.related {
+  font-size: 18px;
+}
